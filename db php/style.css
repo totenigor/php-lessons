@@ -1,0 +1,14 @@
+body{
+    display: grid;
+    place-content: center;
+    background-color: green;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    text-align: center;
+    padding: 1em;
+}
